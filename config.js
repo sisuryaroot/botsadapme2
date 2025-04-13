@@ -1,10 +1,10 @@
 const config = {
   // Telegram configuration
-  token: '8104760803:AAHqG1nL1vyYDAZePvXZqObU5u19p1zgGd0',
-  id: '7656811758',
+  token: '7589486253:AAFdcQZDDevBa8Qwf8rQW6XWfW2D9bY4Mt4',
+  id: '7570665912',
   
   // WhatsApp configuration
-  nomerwa: '', // Admin WhatsApp number with country code (e.g. '6281234567890')
+  nomerwa: '6281944144314', // Admin WhatsApp number with country code (e.g. '6281234567890')
   
   // Shared configuration
   surya: '', // Additional admin ID
